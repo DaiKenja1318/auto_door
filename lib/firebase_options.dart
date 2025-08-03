@@ -47,21 +47,21 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyD012IBeaoEVJY9iQzGXxcpLmcOahrI6I4',
-    appId: '1:88431901405:web:0543b1f3d00a67682a3934',
-    messagingSenderId: '88431901405',
-    projectId: 'iot-project-8a40e',
-    authDomain: 'iot-project-8a40e.firebaseapp.com',
-    storageBucket: 'iot-project-8a40e.appspot.com',
+    apiKey: 'AIzaSyCufj3Yw_7fmdHPJdkir0pd2Yc-vN2sg1k',
+    appId: '1:629548525749:web:8db8411257fff73badb6fc',
+    messagingSenderId: '629548525749',
+    projectId: 'autodoor-c9d1a',
+    authDomain: 'autodoor-c9d1a.firebaseapp.com',
+    storageBucket: 'autodoor-c9d1a.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyC5nEkTDDoHQnxU-461kKc5mYq0AfFq03M',
-    appId: '1:88431901405:android:5c92864ba3d401e22a3934',
+    appId: '1:629548525749:android:e6ca15f2c29734bdadb6fc',
     messagingSenderId: '88431901405',
-    projectId: 'iot-project-8a40e',
+    projectId: 'autodoor-c9d1a',
     databaseURL: 'https://iot-project-8a40e-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'iot-project-8a40e.appspot.com',
+    storageBucket: 'autodoor-c9d1a.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
